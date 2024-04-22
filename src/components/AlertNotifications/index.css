@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.container {
+  background-color: white;
+  background-size: cover;
+  height: 100vh;
+}
+.heading {
+  color: black;
+  font-size: 60px;
+}
+.container1 {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+}
